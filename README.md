@@ -8,9 +8,7 @@ Informationen zum Arc Jumpstart Projekt: [Arc Jumpstart](https://aka.ms/arcjumps
 
 Die Bereitstellung erfolgt über diesen Button:
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fingrammicrocloudde%2FAzure-Arc-Bootcamp%2Fmain%2Fazure_jumpstart_arcbox%2Fbicep%2Fmain.json)
-
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fazure_arc%2Fmain%2Fazure_jumpstart_arcbox%2FARM%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Faktapaz%2Fazure_arc%2Fmain%2Fazure_jumpstart_arcbox%2Fbicep%2Fmain.json)
 
 **Note:** Dieses Repository enthält nicht den Quellcode für die Dokumentation von Arc Jumpstart, der in diesem Repository zu finden ist:  [Dokumentation](https://github.com/Azure/arc_jumpstart_docs).
 
